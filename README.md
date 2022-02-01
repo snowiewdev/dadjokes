@@ -4,6 +4,7 @@
 - deploy via Netlify
 
 Dad Jokes API: https://icanhazdadjoke.com/ <br/>
+Axios: https://github.com/axios/axios
 Nuxt.js : https://nuxtjs.org/ <br/>
 Tailwindcss : https://tailwindcss.com/
 
