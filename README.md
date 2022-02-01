@@ -1,4 +1,7 @@
-# dadjokes
+# Dad Jokes
+- a static site that display corny dad jokes, fetching API from https://icanhazdadjoke.com/
+- featuring Nuxt.js, Tailwindcss, Dark Mode & Light Mode for testing
+- deploy via Netlify
 
 ## Build Setup
 
