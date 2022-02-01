@@ -36,6 +36,10 @@ body {
   @apply bg-gray-100;
 }
 
+body.dark {
+  background: #353535 !important;
+}
+
 .container {
   @apply bg-white dark:bg-black md:my-3 md:py-3 min-h-screen;
 }
