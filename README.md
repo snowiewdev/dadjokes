@@ -3,7 +3,7 @@
 - featuring Nuxt.js, Tailwindcss, Dark Mode & Light Mode for testing
 - deploy via Netlify
 
-Dad Jokes API: https://icanhazdadjoke.com/
+Dad Jokes API: https://icanhazdadjoke.com/ <br/>
 Nuxt.js : https://nuxtjs.org/ <br/>
 Tailwindcss : https://tailwindcss.com/
 
